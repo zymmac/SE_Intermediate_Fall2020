@@ -1,0 +1,5 @@
+In Python you can read files
+In Python you can write into files
+In Python you can handle exceptions
+In Python you can store data
+In Python you can retrieve stored data
