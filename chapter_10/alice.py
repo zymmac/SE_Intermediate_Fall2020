@@ -1,4 +1,4 @@
-filename = 'alice.txt'
+filename = 'chapter_10/alice.txt'
 
 try:
     with open(filename, encoding='utf-8') as f:
