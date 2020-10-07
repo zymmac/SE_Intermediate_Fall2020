@@ -1,4 +1,4 @@
-from e9_2 import Restaurant
+from e9_1 import Restaurant
 
 restaurant1 = Restaurant("Sushi San", "japanese")
 restaurant2 = Restaurant("C'est si bon", "french")
